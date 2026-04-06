@@ -1,5 +1,5 @@
 body {
-    background-color: #9a9999;
+    background-color: #DBCEA5;
 }
 .container {
     display: flex;
@@ -51,7 +51,7 @@ body {
 }
 
 .Übermensch {
-    max-width: 500px;
+    max-width: 400px;
     text-align: center;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;   
