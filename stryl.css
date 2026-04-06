@@ -88,3 +88,11 @@ body {
 .Übermensch {
   background-color: #ECE7D1;
 }
+
+.frases {
+    font-size: larger;
+    border: #ECE7D1;
+    background-color: #ECE7D1;
+    border-radius: 10px;
+    margin: 90px;
+}
