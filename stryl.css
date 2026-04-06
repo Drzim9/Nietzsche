@@ -28,3 +28,13 @@ body {
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.nilismo {
+    max-width: 500px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;   
+    border: #8D7B68;
+    border-radius: 10px;
+    background-color: #8D7B68;
+}
