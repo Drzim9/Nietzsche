@@ -1,5 +1,5 @@
 body {
-    background-color: #FFF8F0;
+    background-color: #9a9999;
 }
 .container {
     display: flex;
@@ -34,7 +34,57 @@ body {
     text-align: center;
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;   
-    border: #8D7B68;
+    border: #ECE7D1;
     border-radius: 10px;
-    background-color: #8D7B68;
+    background-color: #ECE7D1;
+}
+
+
+.Vontadedepoder {
+    max-width: 500px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;   
+    border: #ECE7D1;
+    border-radius: 10px;
+    background-color: #ECE7D1;
+}
+
+.Übermensch {
+    max-width: 500px;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;   
+    border: #ECE7D1;
+    border-radius: 10px;
+    background-color: #ECE7D1;
+}
+
+.ideiasnietz {
+  display: flex;
+  justify-content: center; /* centraliza */
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.nilismo, .Vontadedepoder, .Übermensch {
+  width: 500px; /* tamanho fixo pra caber os 3 */
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* cores */
+.nilismo {
+  background-color: #ECE7D1;
+}
+
+.Vontadedepoder {
+  background-color: #ECE7D1;
+}
+
+.Übermensch {
+  background-color: #ECE7D1;
 }
